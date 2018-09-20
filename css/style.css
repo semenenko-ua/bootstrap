@@ -8,5 +8,6 @@
 @media all and (max-width: 767px){
     .text{
     text-align: center;
-    background: red;
+    background: red;     
+}
 }
